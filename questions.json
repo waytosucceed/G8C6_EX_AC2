@@ -1,0 +1,142 @@
+[
+  {
+    "questionNo": "Q1",
+    "question": "Is 2345888 a perfect square? Give a reason?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q2",
+    "question": "Which of the following numbers are perfect squares?",
+    "options": [
+      "133",
+      "1570",
+      "1092",
+      "1024"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q3",
+    "question": "Without actual addition find the sum of first 20 odd numbers.",
+    "options": [
+      "425",
+      "600",
+      "400",
+      "360"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q4",
+    "question": "If 7² = 49, then (0.0007)² = ?",
+    "options": [
+      "0.049",
+      "0.0049",
+      "0.000049",
+      "0.00000049"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q5",
+    "question": "The square of a proper fraction is always___ than itself.",
+    "options": [
+      "greater",
+      "less",
+      "equal"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q6",
+    "question": "Total numbers between 100² and 101² = _____",
+    "options": [
+      "202",
+      "204",
+      "200",
+      "400"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q7",
+    "question": "Square of 16 = ?",
+    "options": [
+      "256",
+      "296",
+      "286",
+      "266"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q8",
+    "question": "Find <br><img width='75%' src='./optionImg/1.png'>",
+    "options": [
+      "./optionImg/5.png",
+      "./optionImg/6.png",
+      "./optionImg/7.png",
+      "./optionImg/8.png"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q9",
+    "question": "Which of the following is a Pythagorean triplet?",
+    "options": [
+      "(8, 15, 17)",
+      "(8, 24, 25)",
+      "(6, 12, 13)",
+      "(4, 5, 6)"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q10",
+    "question": "If one of the Pythagorean triplet is 48, find the other two.",
+    "options": [
+      "(14, 48, 50)",
+      "(48, 24, 26)",
+      "(10, 48, 26)",
+      "(10, 24, 48)"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q11",
+    "question": "Square of any integer is____",
+    "options": [
+      "Always positive",
+      "Always Negative",
+      "Not Always positive",
+      "Not Always Negative"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q12",
+    "question": "The least 3-digit number which is a perfect square is",
+    "options": [
+      "961",
+      "962",
+      "963",
+      "978"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q13",
+    "question": "If one of the Pythagorean triplet is 13, find the other two.",
+    "options": [
+      "(15, 112, 113)",
+      "(15, 110, 111)",
+      "(15, 110, 112)",
+      "(15, 113, 115)"
+    ],
+    "correct": 0
+  }
+]
